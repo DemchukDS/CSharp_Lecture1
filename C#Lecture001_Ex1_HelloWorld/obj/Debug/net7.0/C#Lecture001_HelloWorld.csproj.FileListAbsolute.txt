@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_HelloWorld\bin\Debug\net7.0\C#Lecture001_HelloWorld.exe
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_HelloWorld\bin\Debug\net7.0\C#Lecture001_HelloWorld.deps.json
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_HelloWorld\bin\Debug\net7.0\C#Lecture001_HelloWorld.runtimeconfig.json
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_HelloWorld\bin\Debug\net7.0\C#Lecture001_HelloWorld.dll
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_HelloWorld\bin\Debug\net7.0\C#Lecture001_HelloWorld.pdb
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_HelloWorld\obj\Debug\net7.0\C#Lecture001_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_HelloWorld\obj\Debug\net7.0\C#Lecture001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_HelloWorld\obj\Debug\net7.0\C#Lecture001_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_HelloWorld\obj\Debug\net7.0\C#Lecture001_HelloWorld.AssemblyInfo.cs
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_HelloWorld\obj\Debug\net7.0\C#Lecture001_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_HelloWorld\obj\Debug\net7.0\C#Lecture001_HelloWorld.dll
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_HelloWorld\obj\Debug\net7.0\refint\C#Lecture001_HelloWorld.dll
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_HelloWorld\obj\Debug\net7.0\C#Lecture001_HelloWorld.pdb
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_HelloWorld\obj\Debug\net7.0\C#Lecture001_HelloWorld.genruntimeconfig.cache
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_HelloWorld\obj\Debug\net7.0\ref\C#Lecture001_HelloWorld.dll
