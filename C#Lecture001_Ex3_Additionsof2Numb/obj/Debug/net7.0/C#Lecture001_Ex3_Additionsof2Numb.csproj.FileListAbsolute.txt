@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex3_Additionsof2Numb\obj\Debug\net7.0\C#Lecture001_Ex3_Additionsof2Numb.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex3_Additionsof2Numb\obj\Debug\net7.0\C#Lecture001_Ex3_Additionsof2Numb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex3_Additionsof2Numb\obj\Debug\net7.0\C#Lecture001_Ex3_Additionsof2Numb.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex3_Additionsof2Numb\obj\Debug\net7.0\C#Lecture001_Ex3_Additionsof2Numb.AssemblyInfo.cs
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex3_Additionsof2Numb\obj\Debug\net7.0\C#Lecture001_Ex3_Additionsof2Numb.csproj.CoreCompileInputs.cache
