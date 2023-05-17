@@ -3,3 +3,13 @@ C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex3_Additionsof2Numb\obj\Debug\
 C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex3_Additionsof2Numb\obj\Debug\net7.0\C#Lecture001_Ex3_Additionsof2Numb.AssemblyInfoInputs.cache
 C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex3_Additionsof2Numb\obj\Debug\net7.0\C#Lecture001_Ex3_Additionsof2Numb.AssemblyInfo.cs
 C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex3_Additionsof2Numb\obj\Debug\net7.0\C#Lecture001_Ex3_Additionsof2Numb.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex3_Additionsof2Numb\bin\Debug\net7.0\C#Lecture001_Ex3_Additionsof2Numb.exe
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex3_Additionsof2Numb\bin\Debug\net7.0\C#Lecture001_Ex3_Additionsof2Numb.deps.json
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex3_Additionsof2Numb\bin\Debug\net7.0\C#Lecture001_Ex3_Additionsof2Numb.runtimeconfig.json
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex3_Additionsof2Numb\bin\Debug\net7.0\C#Lecture001_Ex3_Additionsof2Numb.dll
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex3_Additionsof2Numb\bin\Debug\net7.0\C#Lecture001_Ex3_Additionsof2Numb.pdb
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex3_Additionsof2Numb\obj\Debug\net7.0\C#Lecture001_Ex3_Additionsof2Numb.dll
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex3_Additionsof2Numb\obj\Debug\net7.0\refint\C#Lecture001_Ex3_Additionsof2Numb.dll
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex3_Additionsof2Numb\obj\Debug\net7.0\C#Lecture001_Ex3_Additionsof2Numb.pdb
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex3_Additionsof2Numb\obj\Debug\net7.0\C#Lecture001_Ex3_Additionsof2Numb.genruntimeconfig.cache
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex3_Additionsof2Numb\obj\Debug\net7.0\ref\C#Lecture001_Ex3_Additionsof2Numb.dll
