@@ -16,3 +16,5 @@ if (obj2 > max) max = obj2;
 if (obj3 > max) max = obj3;
 if (obj4 > max) max = obj4;
 if (obj5 > max) max = obj5;
+
+Console.WriteLine(max);
