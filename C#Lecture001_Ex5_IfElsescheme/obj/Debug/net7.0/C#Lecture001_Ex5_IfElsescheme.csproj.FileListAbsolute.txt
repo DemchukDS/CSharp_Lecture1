@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex5_IfElsescheme\obj\Debug\net7.0\C#Lecture001_Ex5_IfElsescheme.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex5_IfElsescheme\obj\Debug\net7.0\C#Lecture001_Ex5_IfElsescheme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex5_IfElsescheme\obj\Debug\net7.0\C#Lecture001_Ex5_IfElsescheme.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex5_IfElsescheme\obj\Debug\net7.0\C#Lecture001_Ex5_IfElsescheme.AssemblyInfo.cs
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex5_IfElsescheme\obj\Debug\net7.0\C#Lecture001_Ex5_IfElsescheme.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex5_IfElsescheme\bin\Debug\net7.0\C#Lecture001_Ex5_IfElsescheme.exe
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex5_IfElsescheme\bin\Debug\net7.0\C#Lecture001_Ex5_IfElsescheme.deps.json
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex5_IfElsescheme\bin\Debug\net7.0\C#Lecture001_Ex5_IfElsescheme.runtimeconfig.json
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex5_IfElsescheme\bin\Debug\net7.0\C#Lecture001_Ex5_IfElsescheme.dll
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex5_IfElsescheme\bin\Debug\net7.0\C#Lecture001_Ex5_IfElsescheme.pdb
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex5_IfElsescheme\obj\Debug\net7.0\C#Lecture001_Ex5_IfElsescheme.dll
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex5_IfElsescheme\obj\Debug\net7.0\refint\C#Lecture001_Ex5_IfElsescheme.dll
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex5_IfElsescheme\obj\Debug\net7.0\C#Lecture001_Ex5_IfElsescheme.pdb
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex5_IfElsescheme\obj\Debug\net7.0\C#Lecture001_Ex5_IfElsescheme.genruntimeconfig.cache
+C:\Users\Asus\Desktop\IT\C#Lecture1\C#Lecture001_Ex5_IfElsescheme\obj\Debug\net7.0\ref\C#Lecture001_Ex5_IfElsescheme.dll
