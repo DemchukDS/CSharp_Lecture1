@@ -1,6 +1,4 @@
-﻿int max = obj1;
-
-Console.WriteLine("Enter 5 object numbers: ");
+﻿Console.WriteLine("Enter 5 object numbers: ");
 Console.Write("The first - ");
 int obj1 = Convert.ToInt32(Console.ReadLine());
 Console.Write("The second - ");
@@ -11,6 +9,7 @@ Console.Write("The fourth - ");
 int obj4 = Convert.ToInt32(Console.ReadLine());
 Console.Write("The fifth - ");
 int obj5 = Convert.ToInt32(Console.ReadLine());
+int max = obj1;
 
 if (obj1 > max) max = obj1;
 if (obj2 > max) max = obj2;
