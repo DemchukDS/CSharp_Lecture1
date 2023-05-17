@@ -1,9 +1,9 @@
-﻿Console.Write("Enter User Name: ");
-string UserName = Console.ReadLine();
-Console.Write("Enter User Soname: ");
-string UserSoname = Console.ReadLine();
+﻿Console.WriteLine("Enter User Name: ");
+string username = Console.ReadLine();
+Console.WriteLine("Enter User Soname: ");
+string usersoname = Console.ReadLine();
 Console.Write("Hello, "); 
-Console.Write(UserName); 
+Console.Write(username); 
 Console.Write(" "); 
-Console.Write(UserSoname); 
+Console.Write(usersoname); 
 Console.Write("!");
